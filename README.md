@@ -8,6 +8,7 @@ Provides a c++ code to do a fast MCMC search with 4 params quickly. Performs tri
 
 # Citation
 
+```
 @ARTICLE{2016MNRAS.463.2335N,
        author = {{Nasir}, Fahad and {Bolton}, James S. and {Becker}, George D.},
         title = "{Inferring the IGM thermal history during reionization with the Lyman {\ensuremath{\alpha}} forest power spectrum at redshift z ≃ 5}",
@@ -25,7 +26,7 @@ archivePrefix = {arXiv},
        adsurl = {https://ui.adsabs.harvard.edu/abs/2016MNRAS.463.2335N},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
-
+```
 
 
 
